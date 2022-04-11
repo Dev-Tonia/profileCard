@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">profileCard</string>
+    <string name="myName">Ogunwa Anthonia Chinasa</string>
+    <string name="stack">Mobile Developer</string>
+    <string name="bio">A self-taught mobile software engineer
+        who is currently enrolled in the going KODECAMP2.0, where
+        I am being trained on how to keep a track record of success
+        in creating apps that will be well-received and commercially
+        viable. Skilled in working as a team and incorporating input
+        into projects.   </string>
+    <string name="comment">Comment Button</string>
+    <string name="commentText"> </string>
+
+</resources>
